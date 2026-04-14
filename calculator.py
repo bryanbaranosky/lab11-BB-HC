@@ -1,11 +1,3 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
+import math
 
-One function per operation, in order.
-"""
-# First example
-def add(a, b): 
-    pass
-
-
+def
