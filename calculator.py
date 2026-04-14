@@ -1,5 +1,14 @@
 import math
 
+def square_root(a):
+    try:
+        return math.sqrt(a)
+    except ValueError:
+        raise ValueError
+
+def hypotenuse(a, b):
+    return math.hypot(a, b)
+
 def add(a, b):
     return a + b
 
@@ -19,5 +28,5 @@ def logarithm(a, b):
         raise ValueError
     return math.log(b, a)
 
-def exponent(a, b)
+def exponent(a, b):
     return a ** b
