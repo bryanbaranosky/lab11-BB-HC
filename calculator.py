@@ -1,3 +1,7 @@
+#https://github.com/bryanbaranosky/lab11-BB-HC.git
+#Partner 1: Hunter Coffman
+#Partner 2: Bryan Baranosky
+
 import math
 
 def square_root(a):
