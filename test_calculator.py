@@ -50,6 +50,6 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(square_root(9), 3)
         self.assertEqual(square_root(0), 0)
 
-# Do not touch this
+
 if __name__ == "__main__":
     unittest.main()
